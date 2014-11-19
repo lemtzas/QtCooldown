@@ -37,6 +37,10 @@ Unfortunately settings from older versions of QtCooldown will not be carried ove
 Changelog
 =========
 
+## v2.1
+
+Minor update. Just some crash fixes related to Drop 3 API changes.
+
 ## v2.0
 
 This is a major update involving a rewrite of most of the addon.  Because the config system has been completely rewritten, settings from previous versions of QtCooldown will not carry over, sorry!
