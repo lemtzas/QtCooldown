@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Ninix" APIVersion="8" Name="QtCooldown" Description="Displays cooldowns on logarithmic timeline.">
+    <Script Name="QtCooldown.lua"/>
+    <Script Name="QtSpellslinger.lua"/>
+    <Form Name="QtCooldown.xml"/>
+</Addon>

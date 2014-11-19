@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="BarSprite1" Cycle="1">
+        <Frame Texture="QtCooldown\Sprites\BarSprite1.tga" x0="0" x1="0" x2="0" x3="5" x4="69" x5="74" y0="0" y1="0" y2="0" y3="22" y4="24" y5="31" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="BarSprite2" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_RaidFrames_513_322.tga" x0="0" x1="0" x2="0" x3="5" x4="69" x5="74" y0="0" y1="0" y2="0" y3="22" y4="24" y5="31" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+</Sprites>
