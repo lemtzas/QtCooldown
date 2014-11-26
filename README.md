@@ -37,6 +37,10 @@ Unfortunately settings from older versions of QtCooldown will not be carried ove
 Changelog
 =========
 
+## v2.2
+
+Minor update. Rolled [the update from GardanBH](http://www.curse.com/ws-addons/wildstar/221491-qtcooldown#c94) into the main build.
+
 ## v2.1
 
 Minor update. Just some crash fixes related to Drop 3 API changes.
